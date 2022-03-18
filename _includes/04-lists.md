@@ -1,3 +1,3 @@
-books
-good food 
-beach
+* books
+* good food 
+* beach
