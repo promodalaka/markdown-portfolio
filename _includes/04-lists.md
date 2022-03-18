@@ -1,0 +1,3 @@
+* books
+* good food 
+* beach
